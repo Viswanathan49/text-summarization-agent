@@ -71,7 +71,7 @@ live on Google Cloud Run.
 
 Tech: Google ADK | Gemini 2.0 Flash | Cloud Run | Python | Vertex AI
 
-🔗 Live Demo: [[your URL](https://text-summarizer-784066446437.us-central1.run.app)]
-💻 GitHub: [your repo link]
+🔗 Live Demo: [[Text Summarizer Agent](https://text-summarizer-784066446437.us-central1.run.app)]
+
 
 #AIAgents #GoogleADK #Gemini #CloudRun #Python #GenerativeAI
