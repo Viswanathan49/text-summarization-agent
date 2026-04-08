@@ -3,7 +3,7 @@
 An AI-powered text summarization agent built using Google's Agent Development 
 Kit (ADK) and Gemini 2.0 Flash, deployed on Google Cloud Run.
 
-## ✨ Features
+## ✨ Features 
 - Summarizes any text in 3 styles:
   - **Concise** — 2-3 sentence summary
   - **Bullet** — key points as bullet list
